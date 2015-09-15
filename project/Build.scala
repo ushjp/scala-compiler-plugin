@@ -12,4 +12,9 @@ object Build extends Build {
       test(scalatest)
   )
 
+  lazy val strictTypeAlias = Common.createProject("strict-type-alias")
+    .settings(libraryDependencies ++=
+      compile(compiler) ++
+      test(scalatest)
+  )
 }

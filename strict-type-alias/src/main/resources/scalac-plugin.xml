@@ -1,0 +1,4 @@
+<plugin>
+  <name>stricttypealias</name>
+  <classname>com.github.ushjp.plugin.StrictTypeAlias</classname>
+</plugin>
