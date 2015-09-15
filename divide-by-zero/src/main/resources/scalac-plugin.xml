@@ -1,0 +1,4 @@
+<plugin>
+  <name>divbyzero</name>
+  <classname>com.github.ushjp.plugin.DivByZero</classname>
+</plugin>
